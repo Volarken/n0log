@@ -3,6 +3,8 @@ OpenVPN Install Script by http://github.com/Nyr edited in order to disable all l
 
 Simply an edited version of https://github.com/Nyr/openvpn-install 
 
+wget http://bit.do/0vpn -O vpninstall.sh
+
 Disabled Logging
 
 Set max connected clients to 25
